@@ -8,6 +8,7 @@ public class Helloworld : MonoBehaviour {
 	void Start () {
         Debug.Log("GITHUB");
         Debug.Log("hello");
+        Debug.Log("hai");
 	}
 	
 	// Update is called once per frame
